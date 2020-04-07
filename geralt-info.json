@@ -8,11 +8,10 @@
 	"seatLocation":"",
 	"occupation":"Monster Slayer",
 	"mother":"Visenna",
-	"aliases":{
-		"firstAliase":"White Wolf",
-		"secondAliase":"Gwynbleidd",
-		"thirdAliase":"Butcher of Blaviken",
-		"fourthAliase":"Ravix of Fourhorn",
-		"fifthAliase":"Butcher of White Orchard"
-	}
+	"firstAliase":"White Wolf",
+	"secondAliase":"Gwynbleidd",
+	"thirdAliase":"Butcher of Blaviken",
+	"fourthAliase":"Ravix of Fourhorn",
+	"fifthAliase":"Butcher of White Orchard"
+
 }

@@ -8,9 +8,7 @@
 	"state":"IL",
 	"favoriteHobby":"Video Games",
 	"seatLocation":"94",
-	"favoriteVideoGames":{
-		"firstFavoriteVideoGame":"Super Smash Bros Ultimate",
-		"secondFavoriteVideoGame":"Witcher 3",
-		"thirdFavoriteVideoGame":"Horizon Zero Dawn"
-	}
+	"firstFavoriteVideoGame":"Super Smash Bros Ultimate",
+	"secondFavoriteVideoGame":"Witcher 3",
+	"thirdFavoriteVideoGame":"Horizon Zero Dawn"
 }
